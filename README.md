@@ -17,3 +17,11 @@ Java practical demonstrating EmployeMain.
 
 ## PayrollApp
 Java practical demonstrating PayrollApp.
+
+# Daily Uploaded Java Practicals
+
+## ProductMain
+Java practical demonstrating ProductMain.
+
+## Result
+Java practical demonstrating Result.
