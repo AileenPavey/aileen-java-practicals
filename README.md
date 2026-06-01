@@ -25,3 +25,11 @@ Java practical demonstrating ProductMain.
 
 ## Result
 Java practical demonstrating Result.
+
+# Daily Uploaded Java Practicals
+
+## StringFunctions
+Java practical demonstrating StringFunctions.
+
+## StudentMarks
+Java practical demonstrating StudentMarks.
