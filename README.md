@@ -33,3 +33,11 @@ Java practical demonstrating StringFunctions.
 
 ## StudentMarks
 Java practical demonstrating StudentMarks.
+
+# Daily Uploaded Java Practicals
+
+## UniversityMain
+Java practical demonstrating UniversityMain.
+
+## Vehicle
+Java practical demonstrating Vehicle.
