@@ -41,3 +41,11 @@ Java practical demonstrating UniversityMain.
 
 ## Vehicle
 Java practical demonstrating Vehicle.
+
+# Daily Uploaded Java Practicals
+
+## a11
+Java practical demonstrating a11.
+
+## a12
+Java practical demonstrating a12.
