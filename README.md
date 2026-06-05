@@ -57,3 +57,11 @@ Java practical demonstrating a13.
 
 ## a14
 Java practical demonstrating a14.
+
+# Daily Uploaded Java Practicals
+
+## a15
+Java practical demonstrating a15.
+
+## a16
+Java practical demonstrating a16.
