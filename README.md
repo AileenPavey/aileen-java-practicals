@@ -81,3 +81,8 @@ Java practical demonstrating a19.
 
 ## a20
 Java practical demonstrating a20.
+
+# Daily Uploaded Java Practicals
+
+## main
+Java practical demonstrating main.
